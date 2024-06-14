@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="Question_1">Фортран является ЯП высокого уровня?</string> <!--да-->
+    <string name="Question_2">Является ли ЯП Си объектно-ориентированным?</string> <!--нет-->
+    <string name="Question_3">Является ли ЯП Java строго-типизированным?</string> <!--да-->
+    <string name="Question_4">Можно ли писать Backend веб-приложения на ЯП C#?</string> <!--да-->
+    <string name="Question_5">JavaScript и Java - это разные языки программирования?</string> <!--да-->
+    <string name="true_but">True</string>
+    <string name="false_but">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="Next_button">Next</string>
+</resources>
